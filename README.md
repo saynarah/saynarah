@@ -1,8 +1,10 @@
-### Hi there, I'm Saynarah! 👋
+ ## Olá! Eu sou a Saynarah 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and exploring new technologies.
+I'm a passionate developer with a love for creating innovative solutions and exploring new technologies.
 
 ---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saynarah&theme=algolia&show_icons=true)
 
 ### 🛠️ Technologies & Tools
 
