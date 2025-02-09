@@ -9,7 +9,7 @@ I'm a passionate developer with a love for creating innovative solutions and exp
 ### 🛠️ Technologies & Tools
 
 - **Languages:** Java
-- **Frameworks & Libraries:** React, Node.js, Django, Flask
+- **Frameworks & Libraries:** Spring
 - **Databases:** PostgreSQL
 - **Tools & Platforms:** Docker, Kubernetes, AWS, GitHub Actions
 
@@ -19,16 +19,14 @@ I'm a passionate developer with a love for creating innovative solutions and exp
 
 Here are a few projects I've been working on:
 
-- **[Project Name](link-to-project)**: Brief description of the project and its purpose.
-- **[Project Name](link-to-project)**: Brief description of the project and its purpose.
-- **[Project Name](link-to-project)**: Brief description of the project and its purpose.
+- **[Spring - Library Management](https://github.com/saynarah/Library-Management)**: Library Management (Spring + Swagger + H2)
 
 ---
 
 ### 🌱 Currently Learning
 
 - DevOps practices and tools
-- 
+- AWS Certifications
 
 ---
 
