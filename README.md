@@ -20,6 +20,7 @@ I'm a passionate developer with a love for creating innovative solutions and exp
 Here are a few projects I've been working on:
 
 - **[Spring - Library Management](https://github.com/saynarah/Library-Management)**: Library Management (Spring + Swagger + H2)
+- **[Spring + AWS - Tech Events Management](https://github.com/saynarah/tech-events-management-back-end-project)** : Events Management (Spring + JPA + Postgres + AWS)
 
 ---
 
