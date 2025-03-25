@@ -40,6 +40,13 @@ I'm a passionate developer with a love for creating innovative solutions and exp
 
 ---
 
+### :scroll: Badges and Certifications
+
+- **[Cloud Foundations]()**: AWS Academy Cloud Foundations
+- **[Desafio Docker]()**: Construção de imagens Docker | Docker Hub | Boas práticas na construção de imagens
+
+---
+
 ### 🚀 Projects
 
 Here are a few projects I've been working on:
