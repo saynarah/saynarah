@@ -25,6 +25,12 @@ I'm a passionate developer with a love for creating innovative solutions and exp
   <img width="12" />
   <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" height="35" alt="discordjs logo"/>
   <img width="12" />
+  <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/N/Naotsugu/20191016/20191016185503.png" height="35" alt="discordjs logo"/>
+  <img width="12" />
+ <img src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Logo.jpg" height="35" alt="discordjs logo"/>
+  <img width="12" />
+ <img src="https://i0.wp.com/build5nines.com/wp-content/uploads/2024/05/GitHub_Actions_Featured_Image_2024.jpg" height="35" alt="GitHub Actions logo" style="background-color:white;" />
+  <img width="12" />
 </div>
 
 - **Languages:** Java
