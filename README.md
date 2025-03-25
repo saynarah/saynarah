@@ -5,7 +5,7 @@ I'm a passionate developer with a love for creating innovative solutions and exp
 ---
 
 <a href="https://github.com/saynarah/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=saynarah&theme=algolia&show_icons=true&card_width=400" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=saynarah&theme=algolia&show_icons=true&card_width=400&rank_icon=github" />
 </a>
 <a href="https://github.com/saynarah/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saynarah&layout=compact&langs_count=8&card_width=320&theme=algolia" />
