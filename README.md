@@ -43,7 +43,7 @@ I'm a passionate developer with a love for creating innovative solutions and exp
 ### :scroll: Badges and Certifications
 
 - **[Cloud Foundations](https://github.com/saynarah/saynarah/blob/main/badges/aws-academy-graduate-aws-academy-cloud-foundations.png)**: AWS Academy Cloud Foundations
-- **[Desafio Docker]()**: Construção de imagens Docker | Docker Hub | Boas práticas na construção de imagens
+- **[Desafio Docker](https://github.com/saynarah/saynarah/blob/main/badges/Desafio%20DevOps%20%26%20Cloud%20-%20Desafio%20Docker%20-%202025-03-23.png)**: Construção de imagens Docker | Docker Hub | Boas práticas na construção de imagens
 
 ---
 
