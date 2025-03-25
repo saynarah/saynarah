@@ -4,12 +4,31 @@ I'm a passionate developer with a love for creating innovative solutions and exp
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saynarah&theme=algolia&show_icons=true)
+<a href="https://github.com/saynarah/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=saynarah&theme=algolia&show_icons=true" />
+</a>
+<a href="https://github.com/saynarah/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saynarah&layout=compact&langs_count=8&card_width=320&theme=algolia" />
+</a>
+
 
 ### 🛠️ Technologies & Tools
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="35" alt="discordjs logo"/>
+  <img width="12" />
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" height="35" alt="discordjs logo"/>
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="35" alt="discordjs logo"/>
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" height="35" alt="discordjs logo"/>
+  <img width="12" />
+</div>
+
 - **Languages:** Java
-- **Frameworks & Libraries:** Spring
+- **Frameworks & Libraries:** Spring Boot
 - **Databases:** PostgreSQL
 - **Tools & Platforms:** Docker, Kubernetes, AWS, GitHub Actions
 
