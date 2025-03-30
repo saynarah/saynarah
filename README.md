@@ -31,6 +31,9 @@ I'm a passionate developer with a love for creating innovative solutions and exp
   <img width="12" />
  <img src="https://i0.wp.com/build5nines.com/wp-content/uploads/2024/05/GitHub_Actions_Featured_Image_2024.jpg" height="35" alt="GitHub Actions logo" style="background-color:white;" />
   <img width="12" />
+  <img src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="35" alt="GitHub Actions logo" style="background-color:white;" />
+  <img width="12" />
+ 
 </div>
 
 - **Languages:** Java
